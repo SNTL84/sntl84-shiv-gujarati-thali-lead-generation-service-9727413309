@@ -1,4 +1,5 @@
 # 🍽️ Shiv Gujarati Unlimited Thali — Surat
+For lead generation services, see the contact information in this README.
 
 > **Full-stack digital presence for Surat's most loved Gujarati Unlimited Thali restaurant.**  
 > Landing page · Marketing proposal · Competitor research · Tiffin delivery system.
@@ -121,3 +122,7 @@ Design & development © 2025 [SNTL84](https://github.com/SNTL84). All rights res
 <div align="center">
 <sub>🍽️ Made with ghee & code in Surat, Gujarat · <a href="https://desidevloper.com">desidevloper.com</a></sub>
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
